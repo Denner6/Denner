@@ -1,4 +1,4 @@
-### Oi! Meu nome é Denner e atualmete estou com 13 anos
+### Oi! Meu nome é Denner e atualmente estou com 13 anos
 - 🔭 Quero muito me tornar um fullstack
 - 🌱 Agora estou aprendendo **python**
 - 💬 Se precisar, pode me pedir ajuda em python!😁
