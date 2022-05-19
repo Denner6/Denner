@@ -1,10 +1,5 @@
-### Oi! Meu nome é Denner e atualmente estou com 13 anos!
-- 🔭 Quero muito me tornar um fullstack
-- 🌱 Agora estou aprendendo **python**
-- 💬 Se precisar, pode me pedir ajuda em python!😁
-<!--
-- 📫 How to reach me: ...
-- 😄 Pronouns: Ele/dele
-- ⚡ Fun fact: ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+### Olá! Eu sou o Denner, tenho 13 anos!
+- 🔭 Hoje ainda não trabalho. Mas pretendo me tornanr um fullstack
+- 🌱 Estudando **python**
+- 📫 Contate-me no email: dennerc06@gmail.com
+- 😄 Pronomes: Ele/dele
